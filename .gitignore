@@ -2,4 +2,5 @@
 *.env
 *.envrc
 *.python-version
+*.python-virtualenv
 __pycache__
