@@ -3,4 +3,5 @@
 *.envrc
 *.python-version
 *.python-virtualenv
+.DS_Store
 __pycache__
